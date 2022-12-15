@@ -6,7 +6,8 @@
   "author": "Denporty <victor.cabot@edu.devinci.fr>",
   "license": "MIT",
   "scripts": {
-    "test" : "jest"
+    "test" : "jest",
+    "dev": "nuxt dev"
   },
   "devDependencies": {
     "@types/jest": "^29.2.4",

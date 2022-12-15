@@ -1,0 +1,1 @@
+export { default } from "file:///Users/aono/Documents/web/www/Utils/front-clean-archi-iwm/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
